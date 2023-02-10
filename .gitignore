@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other
+context_data/competition_data_final_pqt.zip
+.DS_Store
